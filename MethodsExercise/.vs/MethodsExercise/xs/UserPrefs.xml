@@ -1,12 +1,18 @@
 ﻿<Properties StartupConfiguration="{B5279140-46D4-4A45-A11A-8D90D24A7C02}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.MethodsExercise PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program (copy).cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="24" />
+      <File FileName="Program (copy).cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MethodsExercise" expanded="True">
-            <Node name="MethodsExercise" selected="True" />
+            <Node name="MethodsExercise" expanded="True">
+              <Node name="Program (copy).cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
