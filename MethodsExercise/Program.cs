@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("What is your name");
+            string Name = Console.ReadLine();
+
+            Console.WriteLine($"Hello {Name},what is your favorite color?");
+            string favoriteColor  = Console.ReadLine();
+
+            Console.WriteLine($"{favoriteColor} is not my favorite. My favorite animal is a tiger, what is yours?");
+            string favAnimal = Console.ReadLine();
+
+            Console.WriteLine($"That a great {favAnimal}! What is your favorite band?");
+            string favoriteBand = Console.ReadLine();
         }
     }
 }
