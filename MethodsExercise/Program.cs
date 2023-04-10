@@ -30,7 +30,11 @@
 
             Console.WriteLine($"That a great {favAnimal}! What is your favorite band?");
             string favoriteBand = Console.ReadLine();
-              
+
+
+
+            Console.WriteLine ($"{Name} wants a {favoriteColor}-colored fruit while he watches the {favAnimal}./n" +
+                $"He watches the {favAnimal} while hes listening to {favoriteBand} on his phone.") ;
         }
     }
 }
