@@ -7,7 +7,7 @@
         {
 
 
-            Methods.Add(6,8);
+            Console.WriteLine(Methods.Add(6, 8, 10, 100, 15));
             Methods.Subtract(6,8);
             Methods.Multiply(6,8);
             Methods.Divide(6,8);
